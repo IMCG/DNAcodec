@@ -41,7 +41,7 @@ Run "run_decode.sh" inside the "scripts" directory to convert DNA in single-line
 
 ```bash
 cd DNAcodec
-scripts/run_encode.sh source_file output_file
+scripts/run_decode.sh source_file output_file
 ```
 
 #Advanced Usage

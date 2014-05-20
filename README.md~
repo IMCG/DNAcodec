@@ -1,0 +1,26 @@
+DNAcodec
+========
+
+Program to encode binary files to DNA sequences with embedded error correction
+
+#Installation
+
+##Prerequisites
+*lzma
+```bash
+#For Debian\Ubuntu
+sudo apt-get install lzma lzma-dev
+```
+*libxml2
+```bash
+#For Debian\Ubuntu
+sudo apt-get install libxml2 libxml2-dev
+```
+
+##Compilation
+
+
+##Sample Usage
+
+###Encoding files
+
